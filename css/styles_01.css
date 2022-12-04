@@ -1,0 +1,26 @@
+body {
+    background-color: orange;
+}
+body {
+    font-size: 1.2em;
+    font-family: 'Source Code Pro', monospace;
+}
+
+h1 {
+  font-family: 'Bebas Neue', sans-serif;
+  color:#ffffff;
+  font-size: 80pt
+
+}
+
+.rotate {
+  transform: rotate(13deg);
+
+  float:right;
+}
+
+img {
+  max-width:100%;
+  max-height:100vh;
+  align-items: baseline;
+}
