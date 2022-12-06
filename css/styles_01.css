@@ -1,22 +1,26 @@
 body {
-    background-color: purple;
+    background-color: orange;
 }
 body {
     font-size: 1.2em;
-    font-family: 'Josefin Sans', sans-serif;
-    style="word-spacing: 15px;"
+    font-family: 'Source Code Pro', monospace;
 }
 
 h1 {
   font-family: 'Bebas Neue', sans-serif;
   color:#ffffff;
-  font-size: 80pt;
-  margin: 10px;
-        text-align: center;
+  font-size: 80pt
+
 }
 
 .rotate {
-  transform: rotate(8deg);
+  transform: rotate(13deg);
 
   float:right;
+}
+
+img {
+  max-width:100%;
+  max-height:100vh;
+  align-items: baseline;
 }
