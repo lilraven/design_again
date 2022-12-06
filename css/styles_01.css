@@ -4,13 +4,15 @@ body {
 body {
     font-size: 1.2em;
     font-family: 'Josefin Sans', sans-serif;
+    style="word-spacing: 15px;"
 }
 
 h1 {
   font-family: 'Bebas Neue', sans-serif;
   color:#ffffff;
-  font-size: 80pt
-
+  font-size: 80pt;
+  margin: 10px;
+        text-align: center;
 }
 
 .rotate {
@@ -21,6 +23,5 @@ h1 {
 
 img {
   max-width:100%;
-  max-height:100vh;
   align-items: baseline;
 }
